@@ -9,7 +9,7 @@
 > <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/215286877-b8cdc116-ada6-4868-87f3-2c0bdc7120d2.svg"> **Date:** 24/07/2023
 <!-- Alignment options!!!!! -->
 <!-- <img align="right" width="350" height="400" src="https://github.com/TarachaR/Microsoft-s-Film-Strategy-Based-on-Box-Office-Data---A-Preliminary-Analysis/assets/67068918/defacf44-030d-4aef-9aca-a9eb7d81d5ef"> -->
-<img align="right" width="350" height="400" src="https://github.com/TarachaR/Microsoft-s-Film-Strategy-Based-on-Box-Office-Data---A-Preliminary-Analysis/assets/67068918/603ecca1-b817-40d9-b9ab-c0cead8c4060">
+<img align="right" width="350" height="400" src="https://github.com/TarachaR/Microsoft-s-Film-Strategy-Based-on-Box-Office-Data---A-Preliminary-Analysis/assets/67068918/3950eb0c-9342-49b7-9968-cd1e5c9d1d20">
 
 
 ---
